@@ -1,4 +1,5 @@
 # website-catering
+indeks.html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -155,3 +156,7 @@
 </script>
 </body>
 </html>
+
+images
+logo.webp
+nasi_ayam_bakar.jpg
