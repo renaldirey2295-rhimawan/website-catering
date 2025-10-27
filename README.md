@@ -232,8 +232,8 @@
 
 <footer>
   <h5>Hubungi Kami</h5>
-  <p>WhatsApp: <a href="https://wa.me/6281234567890" class="text-white fw-bold" target="_blank">+62 812-3456-7890</a></p>
-  <p>Instagram: <a href="https://instagram.com/dapurmamahilda" class="text-white">@dapurmamahilda</a></p>
+  <p>WhatsApp: <a href="https://wa.me/6281948632" class="text-white fw-bold" target="_blank">+62 812-8194-8632</a></p>
+  <p>Instagram: <a href="[https://instagram.com/dapurmamahilda](https://www.instagram.com/renaldirey1?igsh=MXJnMGQxOTI4Ymx1dQ==)" class="text-white">@renaldirey1</a></p>
   <p>© 2025 Dapur Mama Hilda. Semua Hak Dilindungi.</p>
 </footer>
 
