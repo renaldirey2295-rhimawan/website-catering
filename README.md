@@ -143,7 +143,7 @@
     </div>
     <div class="col-md-4 menu-item" data-category="prasmanan">
       <div class="card menu-card">
-        <img src="images/prasmanan_b.jpg" alt="Paket Prasmanan B" class="card-img-top">
+        <img src="images/prasmanan.jpeg" alt="Paket Prasmanan B" class="card-img-top">
         <div class="card-body">
           <h5 class="card-title fw-bold">Paket Prasmanan B</h5>
           <p class="card-text">Nasi putih, ayam kecap, tahu balado, sayur lodeh, dan kerupuk.</p>
